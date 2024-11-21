@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 1fb8f2a431c1d6145b60a0ff720a46b4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transicao_de_faze_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10710
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f4b61ebd602c34bb805685fba06088
+      internalID: -1327773612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_1
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 10710
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf747682dfd280e4cb5f825cf20a6d6c
+      internalID: -701010206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_2
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 10710
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ddb25254f05d47bf492a8173f6100
+      internalID: -1472194835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_3
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 10710
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca5318853aac94abdd74e2d8d7350d
+      internalID: 1989979436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9180
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e350d69a55f03ad47bc2b449f7d77eba
+      internalID: -1306963425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_5
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 9180
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4852f8295c30e409930cfcd5843cd2
+      internalID: 1360380344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_6
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 9180
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2af8dacad0ce341b78e9e9c5ebb75d
+      internalID: -2084249578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_7
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 9180
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e670a329b7496243bb38e699d2027e5
+      internalID: 496098919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7650
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf769c796bb354d88e43dc4695688c
+      internalID: -1347717654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 7650
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4854f812e18a57248a28fe7e23c12be1
+      internalID: -11915856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_10
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 7650
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a34685e37357d04da14bbf4da777c8f
+      internalID: 1385736502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_11
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 7650
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceaeaf3cf2b6ca4894a0f5149927f0f
+      internalID: -610363726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6120
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb0c09f5932a3044877b5fc520d9484
+      internalID: -976035698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_13
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 6120
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0087b36aa94c7a74ea86767c1d003443
+      internalID: -529298787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_14
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 6120
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec9b9eecb9cdcd4fbf1c82a12102420
+      internalID: 1502917080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_15
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 6120
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c870eb447991d4ab0735d383688f08
+      internalID: 1481004180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4590
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea25bb9c71cd743b0007034115ec6a
+      internalID: 1119554378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_17
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 4590
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e590c42aab2843ab8601fc568a23f
+      internalID: 2088272266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_18
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 4590
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf8e18f74b7284b891cb32b0a448e1
+      internalID: 1235596221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_19
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 4590
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4028d1fbea0e24db4e2e791946370f
+      internalID: 831814208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3060
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a006bc4693f14aa7fb7212c5e9257
+      internalID: 881649313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_21
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3060
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5708def49ec5e5248b4678d8cf324a27
+      internalID: -1377798148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_22
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 3060
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0cc2e47f0287f4b8693822bdfc33db
+      internalID: -1525947032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_23
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 3060
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708747e10d733124ab95f90b371e06cd
+      internalID: 1015330498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc2690dfc1a1c14bb7f0d62843a1586
+      internalID: 531740300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_25
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 1530
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f090d9f5868f43be5db5268d60803
+      internalID: 430120033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_26
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 1530
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0dc0c981f26e841b5e12e5fffa888e
+      internalID: -616401902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_27
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 1530
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e174c5b07c4ba984e88e7744bbc7eec1
+      internalID: 597247068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee7d51df5016674cb06c4d166d09415
+      internalID: -1668456804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_29
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 0
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5683f2e6de817a64d8027778a04fa412
+      internalID: 258305687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_30
+      rect:
+        serializedVersion: 2
+        x: 6120
+        y: 0
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a6401c12bc7ae429d48f931972c5f0
+      internalID: -984064471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: transicao_de_faze_31
+      rect:
+        serializedVersion: 2
+        x: 9180
+        y: 0
+        width: 3060
+        height: 1530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f4bd10315f9b43b1d65f8ebbb91a7
+      internalID: 1869828503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      transicao_de_faze_0: -1327773612
+      transicao_de_faze_1: -701010206
+      transicao_de_faze_10: 1385736502
+      transicao_de_faze_11: -610363726
+      transicao_de_faze_12: -976035698
+      transicao_de_faze_13: -529298787
+      transicao_de_faze_14: 1502917080
+      transicao_de_faze_15: 1481004180
+      transicao_de_faze_16: 1119554378
+      transicao_de_faze_17: 2088272266
+      transicao_de_faze_18: 1235596221
+      transicao_de_faze_19: 831814208
+      transicao_de_faze_2: -1472194835
+      transicao_de_faze_20: 881649313
+      transicao_de_faze_21: -1377798148
+      transicao_de_faze_22: -1525947032
+      transicao_de_faze_23: 1015330498
+      transicao_de_faze_24: 531740300
+      transicao_de_faze_25: 430120033
+      transicao_de_faze_26: -616401902
+      transicao_de_faze_27: 597247068
+      transicao_de_faze_28: -1668456804
+      transicao_de_faze_29: 258305687
+      transicao_de_faze_3: 1989979436
+      transicao_de_faze_30: -984064471
+      transicao_de_faze_31: 1869828503
+      transicao_de_faze_4: -1306963425
+      transicao_de_faze_5: 1360380344
+      transicao_de_faze_6: -2084249578
+      transicao_de_faze_7: 496098919
+      transicao_de_faze_8: -1347717654
+      transicao_de_faze_9: -11915856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
