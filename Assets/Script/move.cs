@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
    [SerializeField]
    private float speed = 3f;
    private Rigidbody2D rb;
+   private Transform player;
    private Vector2 moveDirection;
    private SpriteRenderer sprite;
    private Animator animPlayer;
@@ -14,11 +16,18 @@ public class PlayerController : MonoBehaviour
    private bool temRoupa = false;
    private BoxCollider2D emPe;
    private CapsuleCollider2D deitada;
-   public float jumpForce = 10f;
    public Transform groundCheck;
    public LayerMask groundLayer;
    private bool isGrounded;
    private float groundCheckRadius = 0.2f;
+  [Header("Pulo")]
+   private float moveSpeed = 4f;
+   private int jumpForce = 5;
+   public Transform groundCheckPulo;
+   public LayerMask groundLayerPulo;
+   [SerializeField]private bool isGroundedPulo;
+   [SerializeField]private bool isPulo;
+   private float groundCheckRadiusPulo = 0.2f;
    private void Awake()
    {
       rb = GetComponent<Rigidbody2D>();
@@ -28,10 +37,12 @@ public class PlayerController : MonoBehaviour
       deitada = GetComponent<CapsuleCollider2D>();
       deitada.enabled = false;
       emPe.enabled = true;
-      rb = GetComponent<Rigidbody2D>();
+      groundCheckPulo = transform.GetComponent<Transform>().Find(tag);
+      groundCheck = GetComponent<Transform>();
    }
    private void Update()
    {
+      CodePulo();
       if (emPe.enabled)
       {
          if (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow))
@@ -81,6 +92,7 @@ public class PlayerController : MonoBehaviour
          emPe.enabled = false;
          deitada.enabled = true;
          animPlayer.SetLayerWeight(4, 1);
+         
       }
       else if (Input.GetKeyUp(KeyCode.C))
       {
@@ -113,7 +125,10 @@ public class PlayerController : MonoBehaviour
 
    private void OnCollisionEnter2D(Collision2D collision)
    {
-
+   if(collision.gameObject.CompareTag("Chão"))
+         {
+            isPulo = false;
+         }
    }
 
    private void OnCollisionStay2D(Collision2D collision)
@@ -135,4 +150,20 @@ public class PlayerController : MonoBehaviour
    {
       return temRoupa;
    }
+
+    public void CodePulo()
+    {
+         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+
+        float moveInput = Input.GetAxis("Horizontal");
+        rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+
+        if(Input.GetKeyDown(KeyCode.Space)&&!isPulo)
+        {
+            rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
+            isPulo = true;
+        }
+
+        
+    }
 }

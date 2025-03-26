@@ -8,4 +8,83 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: 88c09bda9dc695e40a00020a847d0bce
+  - enabled: 1
+    path: Assets/Scenes/Menu/SelectFase.unity
+    guid: 7eb606e20b209764c949bb10e027122a
+  - enabled: 1
+    path: Assets/Scenes/InicioGame/GameEgito.unity
+    guid: cb02e78b0e20abb438c41ad8f67c9820
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene0.unity
+    guid: d0080fcd50937974db4ed891e079beb6
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene1.unity
+    guid: dc0626a24638b5d46ab017b41961b182
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene2.unity
+    guid: cdce375e3d1347749b92a6f335a07204
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene3.unity
+    guid: 8cbff24ef9c63694489970a1ce2b4b2b
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene4.unity
+    guid: 4e9f0fda50ba96244a80ac7e2b232d04
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene5.unity
+    guid: 5e3c93f5a943fe94f81de6bc8e5a3ce5
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene6.unity
+    guid: 4516eac878fc81f41ae69ce560d37bd9
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene7.unity
+    guid: ba25418b28b6e5740ae51df0a65344f2
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene8.unity
+    guid: eead7c922bc66144385c38326173fdcd
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene9.unity
+    guid: fa4c4e2edeaaf734cb6cd018b3b63498
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene10.unity
+    guid: 17dd79c0187a8e248b3cb4ef6582dc0d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene11.unity
+    guid: 1c9e88f12b050024f9263461dc40218f
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene12.unity
+    guid: ad1808bb04a03c84384e9f852c3d4ac5
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/Cutscene13.unity
+    guid: 9784648d1453e4343a689468c4565f72
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario0.unity
+    guid: 65a7fbfd080a88f46b14a995c8476746
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario1.unity
+    guid: 3ea8c0194f2df7f41ab96ccf0fe44d1b
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario2.unity
+    guid: 1f6d2e20cc061f144b79b3be2092a8b5
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario3.unity
+    guid: 383b6fd4658598744a3d1e7af30a5dd2
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario4.unity
+    guid: f42c5a7868f817a4081761314983e0ad
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario5.unity
+    guid: 5b061f38ebaabe645beaa30ee15ed180
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario6.unity
+    guid: a8224b80224a66b48a82f7f236f62eca
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario7.unity
+    guid: 65eeb2e9a05fad6488be332c0cb62875
+  - enabled: 1
+    path: Assets/Scenes/Cenarios/Cenario8.unity
+    guid: 45d11a8591b4ae64a957ded32a6e342a
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
