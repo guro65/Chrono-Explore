@@ -36,11 +36,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Cutscenes/Cutscene5.unity
     guid: 5e3c93f5a943fe94f81de6bc8e5a3ce5
   - enabled: 1
+    path: Assets/Scenes/Menu/Creditos.unity
+    guid: f5e7559ef0bf3374dbd3d69025ab856d
+  - enabled: 1
     path: Assets/Scenes/Cutscenes/Cutscene6.unity
     guid: 4516eac878fc81f41ae69ce560d37bd9
   - enabled: 1
     path: Assets/Scenes/Cutscenes/Cutscene7.unity
     guid: ba25418b28b6e5740ae51df0a65344f2
+  - enabled: 1
+    path: Assets/Scenes/Roupa/RoupaEgito.unity
+    guid: be1dba46c75c21545ab4876fd9b87c7c
   - enabled: 1
     path: Assets/Scenes/Cutscenes/Cutscene8.unity
     guid: eead7c922bc66144385c38326173fdcd
@@ -72,8 +78,14 @@ EditorBuildSettings:
     path: Assets/Scenes/Cenarios/Cenario3.unity
     guid: 383b6fd4658598744a3d1e7af30a5dd2
   - enabled: 1
+    path: Assets/Scenes/Preto/Descendo.unity
+    guid: 1dfbcc1f8ea42db418c445dd3e020f46
+  - enabled: 1
     path: Assets/Scenes/Cenarios/Cenario4.unity
     guid: f42c5a7868f817a4081761314983e0ad
+  - enabled: 1
+    path: Assets/Scenes/Preto/Continua.unity
+    guid: add345e304001a347b76c0188539872f
   - enabled: 1
     path: Assets/Scenes/Cenarios/Cenario5.unity
     guid: 5b061f38ebaabe645beaa30ee15ed180
@@ -81,8 +93,26 @@ EditorBuildSettings:
     path: Assets/Scenes/Cenarios/Cenario6.unity
     guid: a8224b80224a66b48a82f7f236f62eca
   - enabled: 1
+    path: Assets/Scenes/Preto/Agradecimentos.unity
+    guid: 13bbb56f93f4d064890b90427dc07b80
+  - enabled: 1
     path: Assets/Scenes/Cenarios/Cenario7.unity
     guid: 65eeb2e9a05fad6488be332c0cb62875
+  - enabled: 1
+    path: Assets/Scenes/Preto/MudandoDeRoupaEgito.unity
+    guid: e15dd4706783265479dd6eb885787c57
+  - enabled: 1
+    path: Assets/Scenes/Morte/Morte.unity
+    guid: 3d20e4c947cbf084b99e034f11626354
+  - enabled: 1
+    path: Assets/Scenes/Morte/Morte1.unity
+    guid: 7ce9819301d3f6e408e00b835abe5c26
+  - enabled: 1
+    path: Assets/Scenes/Morte/Morte2.unity
+    guid: 257d4216b9534b24b96ba684e413d455
+  - enabled: 1
+    path: Assets/Scenes/Morte/Morte3.unity
+    guid: 6914a06640f21e14a8453e0616517e77
   - enabled: 1
     path: Assets/Scenes/Cenarios/Cenario8.unity
     guid: 45d11a8591b4ae64a957ded32a6e342a
