@@ -1,19 +1,25 @@
 fileFormatVersion: 2
-guid: 047efa6f20a44be4999853d52b010cc5
+guid: d6208f7e0ed47d34aa0c33f1f58aa2e4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4085166615821408036
-    second: AndandoAnim_0
+      213: -4135920974577956680
+    second: New_Piskel_5_0
   - first:
-      213: 797425037981348181
-    second: AndandoAnim_1
+      213: 2596482221575083386
+    second: New_Piskel_5_1
   - first:
-      213: -2715189634569643702
-    second: AndandoAnim_2
+      213: 8849696945381844742
+    second: New_Piskel_5_2
   - first:
-      213: -1295405811762297581
-    second: AndandoAnim_3
+      213: 5769466503581575837
+    second: New_Piskel_5_3
+  - first:
+      213: 6363430588628567630
+    second: New_Piskel_5_4
+  - first:
+      213: 6210083084147237359
+    second: New_Piskel_5_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -60,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 200
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -148,13 +154,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: AndandoAnim_0
+      name: New_Piskel_5_0
       rect:
         serializedVersion: 2
-        x: 21
-        y: 394
-        width: 141
-        height: 375
+        x: 5
+        y: 548
+        width: 442
+        height: 222
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -163,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 427d158946d61b830800000000000000
-      internalID: 4085166615821408036
+      spriteID: 8b8813369c14a96c0800000000000000
+      internalID: -4135920974577956680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AndandoAnim_1
+      name: New_Piskel_5_1
       rect:
         serializedVersion: 2
-        x: 219
-        y: 389
-        width: 178
-        height: 380
+        x: 456
+        y: 548
+        width: 442
+        height: 161
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 55171ebd8d5011b00800000000000000
-      internalID: 797425037981348181
+      spriteID: a759992e2de880420800000000000000
+      internalID: 2596482221575083386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AndandoAnim_2
+      name: New_Piskel_5_2
       rect:
         serializedVersion: 2
-        x: 453
-        y: 398
-        width: 141
-        height: 383
+        x: 902
+        y: 548
+        width: 466
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a4957adb965b15ad0800000000000000
-      internalID: -2715189634569643702
+      spriteID: 607285feb7070da70800000000000000
+      internalID: 8849696945381844742
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: AndandoAnim_3
+      name: New_Piskel_5_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3
-        width: 213
-        height: 389
+        x: 5
+        y: 377
+        width: 442
+        height: 161
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,8 +235,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3158eed074bc50ee0800000000000000
-      internalID: -1295405811762297581
+      spriteID: d9aae719733411050800000000000000
+      internalID: 5769466503581575837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Piskel_5_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 377
+        width: 442
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e468f0cc7627f4850800000000000000
+      internalID: 6363430588628567630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Piskel_5_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 279
+        width: 466
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12240a9a5ae2650800000000000000
+      internalID: 6210083084147237359
       vertices: []
       indices: 
       edges: []
@@ -249,10 +299,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      AndandoAnim_0: 4085166615821408036
-      AndandoAnim_1: 797425037981348181
-      AndandoAnim_2: -2715189634569643702
-      AndandoAnim_3: -1295405811762297581
+      New_Piskel_5_0: -4135920974577956680
+      New_Piskel_5_1: 2596482221575083386
+      New_Piskel_5_2: 8849696945381844742
+      New_Piskel_5_3: 5769466503581575837
+      New_Piskel_5_4: 6363430588628567630
+      New_Piskel_5_5: 6210083084147237359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

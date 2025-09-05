@@ -14,7 +14,7 @@ public class PlayerController : MonoBehaviour
    private float horizontal;
    private float vertical;
    private bool temRoupa = false;
-   private BoxCollider2D emPe;
+   private CapsuleCollider2D emPe;
    private CapsuleCollider2D deitada;
    public Transform groundCheck;
    public LayerMask groundLayer;
@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
       rb = GetComponent<Rigidbody2D>();
       sprite = GetComponent<SpriteRenderer>();
       animPlayer = GetComponent<Animator>();
-      emPe = GetComponent<BoxCollider2D>();
+      emPe = GetComponent<CapsuleCollider2D>();
       deitada = GetComponent<CapsuleCollider2D>();
       deitada.enabled = false;
       emPe.enabled = true;
