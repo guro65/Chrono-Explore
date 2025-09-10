@@ -326,12 +326,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 272866044}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.95, y: -0.96, z: -10}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.191, y: 0.073000014, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 420644939}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &352345092
 GameObject:
@@ -379,6 +379,7 @@ GameObject:
   m_Component:
   - component: {fileID: 420644939}
   - component: {fileID: 420644938}
+  - component: {fileID: 420644945}
   - component: {fileID: 420644940}
   - component: {fileID: 420644942}
   - component: {fileID: 420644941}
@@ -458,7 +459,8 @@ Transform:
   m_LocalPosition: {x: -7.141, y: -1.033, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
-  m_Children: []
+  m_Children:
+  - {fileID: 272866047}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &420644940
@@ -532,17 +534,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 074ad2524760b734da6819764702bc22, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  groundCheck: {fileID: 0}
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 0
-  groundCheckPulo: {fileID: 0}
-  groundLayerPulo:
-    serializedVersion: 2
-    m_Bits: 0
-  isGroundedPulo: 1
-  isPulo: 0
 --- !u!50 &420644943
 Rigidbody2D:
   serializedVersion: 5
@@ -607,6 +598,22 @@ CapsuleCollider2D:
   m_Offset: {x: 0.026632586, y: -0.70154816}
   m_Size: {x: 1.3688369, y: 0.47191805}
   m_Direction: 1
+--- !u!114 &420644945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 420644937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f99a86927595355418b3899b1d8d6f11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidadeAndando: 5
+  velocidadeCorrendo: 8
+  forcaPulo: 10
+  tempoEntrePulos: 0.5
 --- !u!1 &560144915
 GameObject:
   m_ObjectHideFlags: 0
@@ -1886,7 +1893,6 @@ SpriteRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 272866047}
   - {fileID: 1063839616}
   - {fileID: 159148029}
   - {fileID: 420644939}
