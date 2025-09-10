@@ -1,9 +1,21 @@
 fileFormatVersion: 2
-guid: 4e6b31362e4066e49aeb08188a8fcd7d
+guid: 59a7d099d37f40749bfc13940e17449e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4309534066194391600
+    second: AndandoEgitoTeste_1_0
+  - first:
+      213: 1803274458213610799
+    second: AndandoEgitoTeste_1_1
+  - first:
+      213: 2976514066461386551
+    second: AndandoEgitoTeste_1_2
+  - first:
+      213: -7391127563193743488
+    second: AndandoEgitoTeste_1_3
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -37,9 +49,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -48,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -67,21 +79,8 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -93,7 +92,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,8 +105,34 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,104 +148,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonista_-_paradacabelo_preto_2_0
+      name: AndandoEgitoTeste_1_0
       rect:
         serializedVersion: 2
-        x: 288
-        y: 1155
-        width: 444
-        height: 767
+        x: 3615
+        y: 13055
+        width: 962
+        height: 2498
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e80641c3217a9e148a0326d4969a2b7b
-      internalID: -1071577307
+      spriteID: 0ddd90589957134c0800000000000000
+      internalID: -4309534066194391600
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_paradacabelo_preto_2_1
+      name: AndandoEgitoTeste_1_1
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 1155
-        width: 444
-        height: 784
+        x: 3487
+        y: 8927
+        width: 1218
+        height: 2562
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2fbbcadd35959da41907e059699872f3
-      internalID: -1356419374
+      spriteID: f257b5ac094860910800000000000000
+      internalID: 1803274458213610799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_paradacabelo_preto_2_2
+      name: AndandoEgitoTeste_1_2
       rect:
         serializedVersion: 2
-        x: 288
-        y: 67
-        width: 444
-        height: 835
+        x: 3615
+        y: 4831
+        width: 930
+        height: 2594
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9dbc15f0b0b1ba345913a3deb71b6e63
-      internalID: 1363515580
+      spriteID: 7376260f5c3be4920800000000000000
+      internalID: 2976514066461386551
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_paradacabelo_preto_2_3
+      name: AndandoEgitoTeste_1_3
       rect:
         serializedVersion: 2
-        x: 1376
-        y: 67
-        width: 444
-        height: 852
+        x: 3327
+        y: 703
+        width: 1506
+        height: 2594
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a8127925ae2f9e3459e438c3b4dd4e26
-      internalID: 612773746
+      spriteID: 0870d3224a07d6990800000000000000
+      internalID: -7391127563193743488
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
     nameFileIdTable:
-      protagonista_-_paradacabelo_preto_2_0: -1071577307
-      protagonista_-_paradacabelo_preto_2_1: -1356419374
-      protagonista_-_paradacabelo_preto_2_2: 1363515580
-      protagonista_-_paradacabelo_preto_2_3: 612773746
+      AndandoEgitoTeste_1_0: -4309534066194391600
+      AndandoEgitoTeste_1_1: 1803274458213610799
+      AndandoEgitoTeste_1_2: 2976514066461386551
+      AndandoEgitoTeste_1_3: -7391127563193743488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

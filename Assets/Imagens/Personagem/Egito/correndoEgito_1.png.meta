@@ -1,9 +1,21 @@
 fileFormatVersion: 2
-guid: ac9c852f05ed3ad499d2dad274c4306c
+guid: bc9d4d55f82eb35419fd528263401fad
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3059745773239313805
+    second: correndoEgito_1_0
+  - first:
+      213: -5392346307075102586
+    second: correndoEgito_1_1
+  - first:
+      213: -7558312468260377976
+    second: correndoEgito_1_2
+  - first:
+      213: -592268610953101622
+    second: correndoEgito_1_3
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -37,9 +49,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -48,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -67,21 +79,8 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -93,7 +92,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,8 +105,34 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,104 +148,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_ANDANDO_1_0
+      name: correndoEgito_1_0
       rect:
         serializedVersion: 2
-        x: 339
-        y: 1155
-        width: 376
-        height: 801
+        x: 3903
+        y: 12511
+        width: 802
+        height: 2434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 57ea7b3b8ea50ab47af12861cb469ca0
-      internalID: -241136698
+      spriteID: 37a51133e699985d0800000000000000
+      internalID: -3059745773239313805
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_ANDANDO_1_1
+      name: correndoEgito_1_1
       rect:
         serializedVersion: 2
-        x: 1427
-        y: 1155
-        width: 376
-        height: 801
+        x: 3551
+        y: 8575
+        width: 1442
+        height: 2370
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9f51b49c63239ce44b711b2874789846
-      internalID: -2012553184
+      spriteID: 68826e48a998a25b0800000000000000
+      internalID: -5392346307075102586
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_ANDANDO_1_2
+      name: correndoEgito_1_2
       rect:
         serializedVersion: 2
-        x: 339
-        y: 67
-        width: 376
-        height: 801
+        x: 3743
+        y: 4319
+        width: 898
+        height: 2434
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f0250b912e9428643949145f041a6d3e
-      internalID: -214831002
+      spriteID: 88a2fe31bda7b1790800000000000000
+      internalID: -7558312468260377976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_ANDANDO_1_3
+      name: correndoEgito_1_3
       rect:
         serializedVersion: 2
-        x: 1427
-        y: 67
-        width: 376
-        height: 801
+        x: 3455
+        y: 415
+        width: 1570
+        height: 2338
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3f3dc0c82bc83e049877faf039faeded
-      internalID: -1974112869
+      spriteID: aceb68816d6d7c7f0800000000000000
+      internalID: -592268610953101622
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
     nameFileIdTable:
-      protagonista_-_DE_FRENTE_ANDANDO_1_0: -241136698
-      protagonista_-_DE_FRENTE_ANDANDO_1_1: -2012553184
-      protagonista_-_DE_FRENTE_ANDANDO_1_2: -214831002
-      protagonista_-_DE_FRENTE_ANDANDO_1_3: -1974112869
+      correndoEgito_1_0: -3059745773239313805
+      correndoEgito_1_1: -5392346307075102586
+      correndoEgito_1_2: -7558312468260377976
+      correndoEgito_1_3: -592268610953101622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

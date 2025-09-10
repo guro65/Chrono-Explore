@@ -48,9 +48,9 @@ public class MovimentoPersonagemFlip : MonoBehaviour
         }
 
         // Move o personagem horizontalmente
-        Vector2 velocidadePersonagem = rb.velocity;
+        Vector2 velocidadePersonagem = rb.linearVelocity;
         velocidadePersonagem.x = movimento;
-        rb.velocity = velocidadePersonagem;
+        rb.linearVelocity = velocidadePersonagem;
 
         // Pulo com cooldown e só se estiver no chão
         if (Input.GetKeyDown(KeyCode.Space) && estaNoChao && Time.time >= tempoUltimoPulo + tempoEntrePulos)

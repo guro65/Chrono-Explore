@@ -1,0 +1,987 @@
+fileFormatVersion: 2
+guid: 194eb293a82715649a06c9ec06204233
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2537711288312590276
+    second: gfewgwsegweg_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gfewgwsegweg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12496
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f2bc68a5c3b54582418fc13847ac5
+      internalID: 1192655074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_1
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 12496
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3874152af76fe3498213d6d8b153a3c
+      internalID: 1947492441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_2
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 12496
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2359c2e1aebc554193da1e7c030cbae
+      internalID: 675322307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_3
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 12496
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a48cf191fcc6e5489bb6c8c29cc3be1
+      internalID: 1942597075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10934
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353bef17b5076944b6089902ff88b21
+      internalID: -844194190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_5
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 10934
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee650ae1582b1428582b250f700756
+      internalID: -913021183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_6
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 10934
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ac6efbc4a28b4e8c57b4c6b2ce4bf
+      internalID: 461433033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_7
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 10934
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe311d8de3b664bad94794d0619fbf
+      internalID: -804524946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9372
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8569ec8f09b8b64e81d7b959021e3ce
+      internalID: 1136054121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_9
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 9372
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d2497ffbd6384f8fc6383a799de8b
+      internalID: 90305101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_10
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 9372
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44be64f8efc1071469735b1436b0b932
+      internalID: -2139146777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_11
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 9372
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e39ab7492139646be6d6a16201f106
+      internalID: -360490344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7810
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df59bb6ebff03f4988c0e2909d78d45
+      internalID: 1583931996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_13
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 7810
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de15367fb917f99429d60ea9388aa5a6
+      internalID: 2143377307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_14
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 7810
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dc7eda18010e64daf4db2c53fdd793
+      internalID: -39000796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_15
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 7810
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2288ba33428ea649ae599097014eb3c
+      internalID: -968297997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6248
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d68dcb71ee44da4baec50a24c2282be
+      internalID: 949325787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_17
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 6248
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9825f73790657f047afe919435d72048
+      internalID: -1705698756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_18
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 6248
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c42085b8e0d584b8d5c5d93b299d4c
+      internalID: -248521363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_19
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 6248
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b084f7f4385a43abcd7ee3625cbec
+      internalID: -1931979680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4686
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ff9ce8488eb149ba72cb9c0415db8
+      internalID: 2077752429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_21
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 4686
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9522b68df360254186ce193d3b9b05c
+      internalID: -631747173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_22
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 4686
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7417d530b2b5ab46a73c9fdf52c3bf9
+      internalID: 1863699027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_23
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 4686
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c460ff280b6f942bab112d77e76cb9
+      internalID: -191339671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3124
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979a1339c7642384eaf03887e2e35904
+      internalID: -1385492095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_25
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3124
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c85ad0b59d134f4db40243ccc23c205
+      internalID: 1408992432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_26
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 3124
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bcfda63119d448881727993660f6b
+      internalID: -2002731652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_27
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 3124
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b018f09c43540cf43b94bb08f47636a1
+      internalID: 770192403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1562
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe7e846d60c7e4ca60a15181895a58
+      internalID: -246774941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_29
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1562
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7f832d88288524cb3eb5d60ec3fcd1
+      internalID: -1815162891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_30
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1562
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52adf1a5dec1194c87acdc42392c14e
+      internalID: -677575923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_31
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 1562
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5dcd1dc055c04cb290fa3a787f18b
+      internalID: -656409207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452a3ef050a226479127e116f0ad2c4
+      internalID: 1530611802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_33
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d5772cf640954b8033d208f70e6ee
+      internalID: 1854019171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_34
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a5153a7ee44441ad849e8fc094b28
+      internalID: 349849874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gfewgwsegweg_35
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 2816
+        height: 1562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e915330891e55e049a1f4abd15967e0c
+      internalID: -762474461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 808e17f3b3fc64143ba8753d61260dd6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gfewgwsegweg_0: 1192655074
+      gfewgwsegweg_1: 1947492441
+      gfewgwsegweg_10: -2139146777
+      gfewgwsegweg_11: -360490344
+      gfewgwsegweg_12: 1583931996
+      gfewgwsegweg_13: 2143377307
+      gfewgwsegweg_14: -39000796
+      gfewgwsegweg_15: -968297997
+      gfewgwsegweg_16: 949325787
+      gfewgwsegweg_17: -1705698756
+      gfewgwsegweg_18: -248521363
+      gfewgwsegweg_19: -1931979680
+      gfewgwsegweg_2: 675322307
+      gfewgwsegweg_20: 2077752429
+      gfewgwsegweg_21: -631747173
+      gfewgwsegweg_22: 1863699027
+      gfewgwsegweg_23: -191339671
+      gfewgwsegweg_24: -1385492095
+      gfewgwsegweg_25: 1408992432
+      gfewgwsegweg_26: -2002731652
+      gfewgwsegweg_27: 770192403
+      gfewgwsegweg_28: -246774941
+      gfewgwsegweg_29: -1815162891
+      gfewgwsegweg_3: 1942597075
+      gfewgwsegweg_30: -677575923
+      gfewgwsegweg_31: -656409207
+      gfewgwsegweg_32: 1530611802
+      gfewgwsegweg_33: 1854019171
+      gfewgwsegweg_34: 349849874
+      gfewgwsegweg_35: -762474461
+      gfewgwsegweg_4: -844194190
+      gfewgwsegweg_5: -913021183
+      gfewgwsegweg_6: 461433033
+      gfewgwsegweg_7: -804524946
+      gfewgwsegweg_8: 1136054121
+      gfewgwsegweg_9: 90305101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

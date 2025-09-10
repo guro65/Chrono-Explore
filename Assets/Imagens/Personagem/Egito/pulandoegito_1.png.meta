@@ -1,9 +1,21 @@
 fileFormatVersion: 2
-guid: 0371755d652459b4abd39088703168a7
+guid: 76253e52ebd072b49906d239a669cf6b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3343009165423816541
+    second: pulandoegito_1_0
+  - first:
+      213: 3391039534052839269
+    second: pulandoegito_1_1
+  - first:
+      213: -1151956975797562796
+    second: pulandoegito_1_2
+  - first:
+      213: -6011332071764423490
+    second: pulandoegito_1_3
   externalObjects: {}
-  serializedVersion: 12
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -37,9 +49,9 @@ TextureImporter:
     filterMode: 0
     aniso: 1
     mipBias: 0
-    wrapU: 1
-    wrapV: 1
-    wrapW: 1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -48,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1400
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -67,21 +79,8 @@ TextureImporter:
   swizzle: 50462976
   cookieLightType: 0
   platformSettings:
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -93,7 +92,7 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
+  - serializedVersion: 4
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -106,8 +105,34 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Server
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -123,104 +148,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_roupa_certa_1_0
+      name: pulandoegito_1_0
       rect:
         serializedVersion: 2
-        x: 305
-        y: 1155
-        width: 410
-        height: 801
+        x: 3839
+        y: 12575
+        width: 930
+        height: 2402
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 84d3485d28ea1184d9c26a4ab6c10337
-      internalID: 1087722328
+      spriteID: d5f26f9bf11c46e20800000000000000
+      internalID: 3343009165423816541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_roupa_certa_1_1
+      name: pulandoegito_1_1
       rect:
         serializedVersion: 2
-        x: 1393
-        y: 1155
-        width: 427
-        height: 801
+        x: 3487
+        y: 8511
+        width: 1634
+        height: 2498
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4af3291b3edc4ec469f0076c92504043
-      internalID: 1115872528
+      spriteID: 56f868e5d746f0f20800000000000000
+      internalID: 3391039534052839269
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_roupa_certa_1_2
+      name: pulandoegito_1_2
       rect:
         serializedVersion: 2
-        x: 305
-        y: 67
-        width: 410
-        height: 801
+        x: 3359
+        y: 4543
+        width: 1698
+        height: 2402
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a16979c8ea8b7d54fb8084360640f115
-      internalID: -1685241289
+      spriteID: 4529d0ddb3d6300f0800000000000000
+      internalID: -1151956975797562796
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: protagonista_-_DE_FRENTE_roupa_certa_1_3
+      name: pulandoegito_1_3
       rect:
         serializedVersion: 2
-        x: 1393
-        y: 67
-        width: 410
-        height: 801
+        x: 3839
+        y: 287
+        width: 930
+        height: 2402
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 376d0b5057672cc468f38d7445aee809
-      internalID: 2018507864
+      spriteID: ebc81938455739ca0800000000000000
+      internalID: -6011332071764423490
       vertices: []
       indices: 
       edges: []
       weights: []
     outline: []
+    customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
     nameFileIdTable:
-      protagonista_-_DE_FRENTE_roupa_certa_1_0: 1087722328
-      protagonista_-_DE_FRENTE_roupa_certa_1_1: 1115872528
-      protagonista_-_DE_FRENTE_roupa_certa_1_2: -1685241289
-      protagonista_-_DE_FRENTE_roupa_certa_1_3: 2018507864
+      pulandoegito_1_0: 3343009165423816541
+      pulandoegito_1_1: 3391039534052839269
+      pulandoegito_1_2: -1151956975797562796
+      pulandoegito_1_3: -6011332071764423490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
