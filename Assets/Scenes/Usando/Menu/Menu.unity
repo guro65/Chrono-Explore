@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 182016748}
   - component: {fileID: 182016747}
   - component: {fileID: 182016746}
+  - component: {fileID: 182016749}
   m_Layer: 5
   m_Name: Esquerda
   m_TagString: Untagged
@@ -239,6 +240,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 182016744}
   m_CullTransparentMesh: 1
+--- !u!114 &182016749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 182016744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22b4f5bfdc4a3f49add0cecc3f50c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  botaoDireito: {fileID: 0}
+  botaoEsquerdo: {fileID: 0}
+  Botoes: []
 --- !u!1 &239812758
 GameObject:
   m_ObjectHideFlags: 0
@@ -456,6 +472,7 @@ GameObject:
   - component: {fileID: 1178297682}
   - component: {fileID: 1178297681}
   - component: {fileID: 1178297680}
+  - component: {fileID: 1178297683}
   m_Layer: 5
   m_Name: Direita
   m_TagString: Untagged
@@ -564,6 +581,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1178297678}
   m_CullTransparentMesh: 1
+--- !u!114 &1178297683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1178297678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f22b4f5bfdc4a3f49add0cecc3f50c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  botaoDireito: {fileID: 0}
+  botaoEsquerdo: {fileID: 0}
+  Botoes: []
 --- !u!1 &1564527480
 GameObject:
   m_ObjectHideFlags: 0
