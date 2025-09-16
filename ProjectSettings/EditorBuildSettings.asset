@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Naousando/InicioGame/GameEgito.unity
     guid: cb02e78b0e20abb438c41ad8f67c9820
   - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/Corredor.unity
+    guid: ea067cbee6d4f07439cecb1c03bb0277
+  - enabled: 1
     path: Assets/Scenes/Usando/Cutscenes/Cutscene0.unity
     guid: d0080fcd50937974db4ed891e079beb6
   - enabled: 1
@@ -50,6 +53,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Usando/Cutscenes/Cutscene8.unity
     guid: eead7c922bc66144385c38326173fdcd
+  - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/Inicio.unity
+    guid: 83f5a7faaa9dbf345b89f776da7894a5
   - enabled: 1
     path: Assets/Scenes/Usando/Cutscenes/Cutscene9.unity
     guid: fa4c4e2edeaaf734cb6cd018b3b63498
@@ -89,6 +95,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Naousando/Cenarios/Cenario5.unity
     guid: 5b061f38ebaabe645beaa30ee15ed180
+  - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/Banheiro.unity
+    guid: 85f0a604e46652f43ad1363b17c8353e
+  - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/Cozinha.unity
+    guid: 7d24204563c76184e8b3f6b8a96e1268
+  - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/QuartoDaFilha.unity
+    guid: 7bafefb6b5b20b6429772c4c8df3c282
+  - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/QuartoDoPai.unity
+    guid: eaf5a2d51e18e8f49827ae84081408b5
+  - enabled: 1
+    path: Assets/Scenes/Usando/Gameplay/Sala.unity
+    guid: d0800cb5629904c4682aea3df72f0137
   - enabled: 1
     path: Assets/Scenes/Naousando/Cenarios/Cenario6.unity
     guid: a8224b80224a66b48a82f7f236f62eca
