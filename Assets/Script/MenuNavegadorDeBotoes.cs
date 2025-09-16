@@ -10,11 +10,13 @@ public class MenuNavegadorDeBotoes : MonoBehaviour
     [Header("Botões de Navegação")]
     public Button botaoEsquerda;
     public Button botaoDireita;
-
+    public string sceneName;
     private int indiceAtual = 0;
+    public Transferir transferir;
 
     void Start()
     {
+        transferir.Transition(sceneName);
         AtualizarBotoes();
 
         botaoEsquerda.onClick.AddListener(Anterior);

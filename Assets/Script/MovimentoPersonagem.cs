@@ -15,9 +15,12 @@ public class MovimentoPersonagemFlip : MonoBehaviour
 
     private bool estaNoChao = false;
     private float tempoUltimoPulo = -Mathf.Infinity;
+    public string sceneName;
+    public Transferir transferir;
 
     void Start()
     {
+        transferir.Transition(sceneName);
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
