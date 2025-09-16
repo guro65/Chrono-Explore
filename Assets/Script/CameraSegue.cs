@@ -31,4 +31,8 @@ public class CameraSegue : MonoBehaviour
         transform.position = smoothPosition;
 
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b75268287060bc5f425305d9db94cbd921304bd3

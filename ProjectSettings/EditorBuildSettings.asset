@@ -12,9 +12,10 @@ EditorBuildSettings:
     path: Assets/Scenes/Usando/Menu/Menu.unity
     guid: 88c09bda9dc695e40a00020a847d0bce
   - enabled: 1
-    path: Assets/Scenes/Usando/Menu/SelectFase.unity
-    guid: 7eb606e20b209764c949bb10e027122a
+    path: Assets/Scenes/Usando/Gameplay/Corredor.unity
+    guid: ea067cbee6d4f07439cecb1c03bb0277
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Naousando/InicioGame/GameEgito.unity
     guid: cb02e78b0e20abb438c41ad8f67c9820
   - enabled: 1
@@ -137,5 +138,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Naousando/Cenarios/Cenario8.unity
     guid: 45d11a8591b4ae64a957ded32a6e342a
+=======
+    path: Assets/Scenes/Usando/Gameplay/Cozinha.unity
+    guid: 7d24204563c76184e8b3f6b8a96e1268
+>>>>>>> b75268287060bc5f425305d9db94cbd921304bd3
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

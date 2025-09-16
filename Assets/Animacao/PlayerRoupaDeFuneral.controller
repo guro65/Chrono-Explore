@@ -30,9 +30,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 1
     m_ConditionEvent: Correndo
     m_EventTreshold: 0
-  - m_ConditionMode: 2
-    m_ConditionEvent: andando
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 4983966152750424315}
   m_Solo: 0
@@ -57,9 +54,6 @@ AnimatorStateTransition:
   m_Conditions:
   - m_ConditionMode: 1
     m_ConditionEvent: andando
-    m_EventTreshold: 0
-  - m_ConditionMode: 2
-    m_ConditionEvent: Correndo
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 4241968681847088711}
