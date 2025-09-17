@@ -44,19 +44,10 @@ public class VolumeJogo : MonoBehaviour
         mixer.SetFloat("musica", Mathf.Log10(volume) * 20); 
         PlayerPrefs.SetFloat("musicaVolume", volume); 
     }
-
-     public void definirVolume2()
-    {
-        float volume = outrosDeVolume.value;
-        mixer.SetFloat("outro", Mathf.Log10(volume) * 20); 
-        PlayerPrefs.SetFloat("outrosVolume", volume); 
-    }
-
     public void CarregarVolume()
     {
         float volume = PlayerPrefs.GetFloat("musicaVolume");
         barraDeVolume.value = volume;
-        outrosDeVolume.value = volume;
         mixer.SetFloat("musica", Mathf.Log10(volume) * 20);
     }
 

@@ -46,6 +46,19 @@ public class MovimentoPersonagemFlip : MonoBehaviour
         {
             movimento = 0f;
         }
+        if(Input.GetKey(KeyCode.A) && (Input.GetKey(KeyCode.LeftShift)))
+        {
+            movimento = -velocidadeCorrendo;
+            spriteRenderer.flipX = true;
+            animator.SetTrigger("Correndo 0");
+        }
+        else if(Input.GetKey(KeyCode.D) && (Input.GetKey(KeyCode.LeftShift)))
+        {
+            movimento = velocidadeCorrendo;
+
+            spriteRenderer.flipX = false;
+            animator.SetTrigger("Correndo 0");
+        }
 
         // Move o personagem horizontalmente
         Vector2 velocidadePersonagem = rb.linearVelocity;
@@ -62,7 +75,6 @@ public class MovimentoPersonagemFlip : MonoBehaviour
 
         // Atualiza os parâmetros do Animator
         animator.SetBool("andando", movimento != 0);
-        animator.SetBool("Correndo", correndo && movimento != 0);
         animator.SetBool("Pulando", !estaNoChao);
     }
 
