@@ -14,39 +14,6 @@ AudioMixerEffectController:
   m_SendTarget: {fileID: 0}
   m_EnableWetMix: 0
   m_Bypass: 0
---- !u!244 &-6865504013752470195
-AudioMixerEffectController:
-  m_ObjectHideFlags: 3
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  m_EffectID: cf96e1840b3d8744587a228ec813c5b0
-  m_EffectName: Attenuation
-  m_MixLevel: e19a1eba42c05fc4bbd5f2e999ae1f16
-  m_Parameters: []
-  m_SendTarget: {fileID: 0}
-  m_EnableWetMix: 0
-  m_Bypass: 0
---- !u!243 &-3689734232904810706
-AudioMixerGroupController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: outro
-  m_AudioMixer: {fileID: 24100000}
-  m_GroupID: 44f407166000a234cbf0cf29e2b2817e
-  m_Children: []
-  m_Volume: c3f28a6e3b9002a409a3b2d43f2847e4
-  m_Pitch: 4d27eb9de35e52c4dbcd85588734e7f1
-  m_Send: 00000000000000000000000000000000
-  m_Effects:
-  - {fileID: -6865504013752470195}
-  m_UserColorIndex: 0
-  m_Mute: 0
-  m_Solo: 0
-  m_BypassEffects: 0
 --- !u!243 &-449461080973763751
 AudioMixerGroupController:
   m_ObjectHideFlags: 0
@@ -82,15 +49,12 @@ AudioMixerController:
   m_EnableSuspend: 1
   m_UpdateMode: 0
   m_ExposedParameters:
-  - guid: c3f28a6e3b9002a409a3b2d43f2847e4
-    name: outro
   - guid: 5b94cf4bda2703046b0d70222c2ed612
     name: musica
   m_AudioMixerGroupViews:
   - guids:
     - 78cbfc4b085674742952e3948fffc44b
     - 7169ff4138c123c48abff938299f6d02
-    - 44f407166000a234cbf0cf29e2b2817e
     name: View
   m_CurrentViewIndex: 0
   m_TargetSnapshot: {fileID: 24500006}
@@ -105,7 +69,6 @@ AudioMixerGroupController:
   m_GroupID: 78cbfc4b085674742952e3948fffc44b
   m_Children:
   - {fileID: -449461080973763751}
-  - {fileID: -3689734232904810706}
   m_Volume: 0bb7d10a8a74fa642a17b91e485bd8af
   m_Pitch: 1f6b2dd4e101a10439046304be71fcf9
   m_Send: 00000000000000000000000000000000
